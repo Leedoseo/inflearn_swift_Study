@@ -1,4 +1,4 @@
-# inflearn_swift_Study
+# 인프런 Swift 정리
 ---
 
 노션 링크
